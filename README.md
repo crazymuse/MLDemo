@@ -8,8 +8,10 @@ Here I have organized Tutorials according Date and Topic
 ## October 2016
 
 # Topicwise
+
 ## Audio Processing
 * [Synthetic sound Generation ](Tut1_GeneratingSound/generatingsound.ipynb)
+
 ## Recommender Systems
 * [Recommender in PySpark](Tut3_pysparkRecommender/recommender_system.ipynb)
 
