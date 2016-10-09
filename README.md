@@ -1,5 +1,5 @@
-# Tutorials
-Here I have organized Tutorials according Date and Topic
+# Tutorials and Links for ML
+Here I have organized Tutorials according Date and Topic for a few ML Topics I am working on
 
 
 
@@ -16,7 +16,7 @@ Here I have organized Tutorials according Date and Topic
 ## November 2016
 * [Understanding LSTM's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-
+------------------------
 
 # Topicwise Tutorials
 
@@ -31,7 +31,7 @@ Here I have organized Tutorials according Date and Topic
 * [Recommender in PySpark](Tut3_pysparkRecommender/recommender_system.ipynb) - Matrix Factorization method in Pyspark
 
 
-
+------------------------
 
 # Topicwise Helpful Links
 
