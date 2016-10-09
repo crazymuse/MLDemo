@@ -1,6 +1,8 @@
 # Tutorials
 Here I have organized Tutorials according Date and Topic
 
+
+
 # Monthwise
 
 ## September 2016
@@ -14,6 +16,8 @@ Here I have organized Tutorials according Date and Topic
 ## November 2016
 * [Understanding LSTM's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
+
+
 # Topicwise Tutorials
 
 ## Audio Processing
@@ -25,6 +29,8 @@ Here I have organized Tutorials according Date and Topic
 
 ## Recommender Systems
 * [Recommender in PySpark](Tut3_pysparkRecommender/recommender_system.ipynb) - Matrix Factorization method in Pyspark
+
+
 
 
 # Topicwise Helpful Links
