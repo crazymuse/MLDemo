@@ -13,9 +13,6 @@ Here I have organized Tutorials according Date and Topic for a few ML Topics I a
 * [NLTK Basics](Tut2_NLTK_Basics/basics.ipynb)
 * [Rap Lyrics Generator](Tut4_Rap_Lyrics_Generator/raplyricsgenerator.ipynb) - HMM Based Rap Lyrics Generator
 
-## November 2016
-* [Understanding LSTM's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-
 ------------------------
 
 # Topicwise Tutorials
@@ -37,4 +34,5 @@ Here I have organized Tutorials according Date and Topic for a few ML Topics I a
 
 ## Deep Learning
 * [Ext. Understanding LSTM's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [LSTM Tutorial](https://github.com/sachinruk/PyData_Keras_Talk/blob/master/DeepLearning.ipynb) and [LSTM Youtube video](https://www.youtube.com/watch?v=ywinX5wgdEU) on how to use LSTM to reconstruct Sine wave.
 
