@@ -34,5 +34,5 @@ Here I have organized Tutorials according Date and Topic for a few ML Topics I a
 
 ## Deep Learning
 * [Ext. Understanding LSTM's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-* [LSTM Tutorial](https://github.com/sachinruk/PyData_Keras_Talk/blob/master/DeepLearning.ipynb) and [LSTM Youtube video](https://www.youtube.com/watch?v=ywinX5wgdEU) on how to use LSTM to reconstruct Sine wave.
+* [Tutorial](https://github.com/sachinruk/PyData_Keras_Talk/blob/master/DeepLearning.ipynb) and [Youtube video](https://www.youtube.com/watch?v=ywinX5wgdEU) on how to use LSTM to reconstruct Sine wave.
 
