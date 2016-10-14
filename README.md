@@ -34,5 +34,17 @@ Here I have organized Tutorials according Date and Topic for a few ML Topics I a
 
 ## Deep Learning
 * [Ext. Understanding LSTM's](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-* [Tutorial](https://github.com/sachinruk/PyData_Keras_Talk/blob/master/DeepLearning.ipynb) and [Youtube video](https://www.youtube.com/watch?v=ywinX5wgdEU) on how to use LSTM to reconstruct Sine wave.
+* [Tutorial. LSTM For Sine Wave Reconstruction](https://github.com/sachinruk/PyData_Keras_Talk/blob/master/DeepLearning.ipynb) and [Youtube video](https://www.youtube.com/watch?v=ywinX5wgdEU) on how to use LSTM to reconstruct Sine wave.
+* [Paper. Wavenet For Speech Synthesis](https://arxiv.org/pdf/1609.03499.pdf) and its implementation in tensorflow.([Code](https://github.com/ibab/tensorflow-wavenet))
+* [Paper. PixelCNN For Generating Conditional Images](https://arxiv.org/pdf/1606.05328v2.pdf)
+
+----------------------
+# Papers (With Sourcecode(optional) and pretrained-Models(optional))
+
+## Audio Processing
+* [Wavenet For Speech Synthesis](https://arxiv.org/pdf/1609.03499.pdf) and its implementation in tensorflow.([Code](https://github.com/ibab/tensorflow-wavenet))
+
+
+## Image Processing
+* [PixelCNN For Generating Conditional Images](https://arxiv.org/pdf/1606.05328v2.pdf)
 
