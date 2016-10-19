@@ -53,6 +53,8 @@ Here I have organized Tutorials according Date and Topic for a few ML Topics I a
 * [Eesan ASR Pipeline(Code)](https://github.com/srvk/eesen)
 * [(Short Article)Tech behind Google Voice Transcription](https://research.googleblog.com/2015/08/the-neural-networks-behind-google-voice.html)
 * [LSTM RNN Networks for Large Scale Acoustic Modelling](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43905.pdf)
+* [Alize Speaker Recognition](https://github.com/ALIZE-Speaker-Recognition)
+* [Deep Speech - Speech Recognition Paper](https://arxiv.org/pdf/1412.5567v2.pdf)
 
 ## Image Processing
 * [PixelCNN For Generating Conditional Images](https://arxiv.org/pdf/1606.05328v2.pdf)
