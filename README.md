@@ -55,9 +55,10 @@ Here I have organized Tutorials according Date and Topic for a few ML Topics I a
 * [LSTM RNN Networks for Large Scale Acoustic Modelling](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43905.pdf)
 * [Alize Speaker Recognition](https://github.com/ALIZE-Speaker-Recognition)
 * [Deep Speech - Speech Recognition Paper](https://arxiv.org/pdf/1412.5567v2.pdf)
-
+* [6 Tools for Music Generation-Review](http://www.asimovinstitute.org/analyzing-deep-learning-tools-music/)
 ## Image Processing
 * [PixelCNN For Generating Conditional Images](https://arxiv.org/pdf/1606.05328v2.pdf)
+* [MultiLingual POS Tagging with BiDirectional LSTM's Paper](https://arxiv.org/pdf/1604.05529v3.pdf) with [(code)](https://github.com/sivareddyg/bilty-tagger)
 
 ## Interdisciplinary 
 * [Speaker Identification using Multimodal LSTM](https://arxiv.org/pdf/1602.04364v1.pdf)
